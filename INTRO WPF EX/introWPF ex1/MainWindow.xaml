@@ -1,0 +1,17 @@
+﻿<Window x:Class="introWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:introWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid >
+
+        <Button Content="Up left" HorizontalAlignment="Left" VerticalAlignment="Top" Background="Red" />
+        <Button Content="Up right" HorizontalAlignment="Right" VerticalAlignment="Top" Background="#FF71FF00" />
+        <Button Content="Down right" HorizontalAlignment="Right" VerticalAlignment="Bottom" Background="#FF0800FF" />
+        <Button Content="Down left" HorizontalAlignment="Left" VerticalAlignment="Bottom" Background="#FFE600FF" />
+        
+    </Grid>
+</Window>

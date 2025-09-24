@@ -1,0 +1,26 @@
+﻿<Window x:Class="intro_WPF_ex_6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:intro_WPF_ex_6"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <Grid>
+        <ListBox FontSize="16" Width="250" Height="150"
+                 HorizontalAlignment="Left"
+                 VerticalAlignment="Top" Margin="267,150,0,0">
+            <ListBoxItem Foreground="#FF8C00">Danse macabre</ListBoxItem>
+            <ListBoxItem Foreground="#32CD32">Toccata et Fugue en ré mineur</ListBoxItem>
+            <ListBoxItem Foreground="#1E90FF">L’empereur</ListBoxItem>
+            <ListBoxItem Foreground="#00CED1">Tristesse</ListBoxItem>
+            <ListBoxItem Foreground="#8B008B">Nocturne</ListBoxItem>
+            <ListBoxItem Foreground="#FF4500">Clair de Lune</ListBoxItem>
+            <ListBoxItem Foreground="#A52A2A">Boléro</ListBoxItem>
+        </ListBox>
+    </Grid>
+
+
+
+</Window>
