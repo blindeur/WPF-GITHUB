@@ -1,0 +1,31 @@
+﻿<Window x:Class="Amaury_ACT_EX_WPF_OBJET__EVENTS.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Amaury_ACT_EX_WPF_OBJET__EVENTS"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="400" Background="Gray">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center"  Grid.Row="0">
+        <TextBox x:Name="texteBox0"  FontSize="14" IsReadOnly="True" TextAlignment="Center"  Height="50" Width="200"  Margin="3"/>
+        <TextBlock Text="A"  FontSize="50" />
+        </StackPanel>
+        <StackPanel  Orientation="Horizontal" HorizontalAlignment="Center" Grid.Row="1">
+        <TextBox x:Name="texteBox1"  FontSize="14" IsReadOnly="True" TextAlignment="Left"  Height="50" Width="200" VerticalContentAlignment="Center" Margin="3"/>
+        <TextBlock Text="B"  FontSize="50" />
+        </StackPanel>
+        <StackPanel  Orientation="Horizontal" HorizontalAlignment="Center" Grid.Row="2" >
+        <TextBox x:Name="texteBox2"  FontSize="14" IsReadOnly="True" TextAlignment="Left"   Height="50" Width="200" VerticalContentAlignment="Center" Margin="3"/>
+        <TextBlock Text="C" FontSize="50" />
+        </StackPanel>
+        <Button Grid.Row="3" Content="CALCULER" VerticalContentAlignment="Center" Margin="3"  Height="50" Width="200"/>
+
+    </Grid>
+</Window>
