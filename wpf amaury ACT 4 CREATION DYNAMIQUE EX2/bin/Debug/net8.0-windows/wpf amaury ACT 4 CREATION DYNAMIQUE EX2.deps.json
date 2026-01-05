@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "wpf amaury ACT 4 CREATION DYNAMIQUE EX2/1.0.0": {
+        "runtime": {
+          "wpf amaury ACT 4 CREATION DYNAMIQUE EX2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "wpf amaury ACT 4 CREATION DYNAMIQUE EX2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

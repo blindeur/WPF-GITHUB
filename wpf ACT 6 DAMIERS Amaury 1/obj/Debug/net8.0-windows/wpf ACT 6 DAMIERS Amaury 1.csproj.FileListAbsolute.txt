@@ -1,0 +1,42 @@
+E:\6 eme info\WPF-GITHUB\wpf ACT 6 DAMIERS Amaury 1\bin\Debug\net8.0-windows\wpf ACT 6 DAMIERS Amaury 1.exe
+E:\6 eme info\WPF-GITHUB\wpf ACT 6 DAMIERS Amaury 1\bin\Debug\net8.0-windows\wpf ACT 6 DAMIERS Amaury 1.deps.json
+E:\6 eme info\WPF-GITHUB\wpf ACT 6 DAMIERS Amaury 1\bin\Debug\net8.0-windows\wpf ACT 6 DAMIERS Amaury 1.runtimeconfig.json
+E:\6 eme info\WPF-GITHUB\wpf ACT 6 DAMIERS Amaury 1\bin\Debug\net8.0-windows\wpf ACT 6 DAMIERS Amaury 1.dll
+E:\6 eme info\WPF-GITHUB\wpf ACT 6 DAMIERS Amaury 1\bin\Debug\net8.0-windows\wpf ACT 6 DAMIERS Amaury 1.pdb
+E:\6 eme info\WPF-GITHUB\wpf ACT 6 DAMIERS Amaury 1\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\6 eme info\WPF-GITHUB\wpf ACT 6 DAMIERS Amaury 1\obj\Debug\net8.0-windows\App.g.cs
+E:\6 eme info\WPF-GITHUB\wpf ACT 6 DAMIERS Amaury 1\obj\Debug\net8.0-windows\wpf ACT 6 DAMIERS Amaury 1_MarkupCompile.cache
+E:\6 eme info\WPF-GITHUB\wpf ACT 6 DAMIERS Amaury 1\obj\Debug\net8.0-windows\wpf ACT 6 DAMIERS Amaury 1_MarkupCompile.lref
+E:\6 eme info\WPF-GITHUB\wpf ACT 6 DAMIERS Amaury 1\obj\Debug\net8.0-windows\MainWindow.baml
+E:\6 eme info\WPF-GITHUB\wpf ACT 6 DAMIERS Amaury 1\obj\Debug\net8.0-windows\wpf ACT 6 DAMIERS Amaury 1.g.resources
+E:\6 eme info\WPF-GITHUB\wpf ACT 6 DAMIERS Amaury 1\obj\Debug\net8.0-windows\wpf ACT 6 DAMIERS Amaury 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\6 eme info\WPF-GITHUB\wpf ACT 6 DAMIERS Amaury 1\obj\Debug\net8.0-windows\wpf ACT 6 DAMIERS Amaury 1.AssemblyInfoInputs.cache
+E:\6 eme info\WPF-GITHUB\wpf ACT 6 DAMIERS Amaury 1\obj\Debug\net8.0-windows\wpf ACT 6 DAMIERS Amaury 1.AssemblyInfo.cs
+E:\6 eme info\WPF-GITHUB\wpf ACT 6 DAMIERS Amaury 1\obj\Debug\net8.0-windows\wpf ACT 6 DAMIERS Amaury 1.csproj.CoreCompileInputs.cache
+E:\6 eme info\WPF-GITHUB\wpf ACT 6 DAMIERS Amaury 1\obj\Debug\net8.0-windows\wpf ACT 6 DAMIERS Amaury 1.sourcelink.json
+E:\6 eme info\WPF-GITHUB\wpf ACT 6 DAMIERS Amaury 1\obj\Debug\net8.0-windows\wpf ACT 6 DAMIERS Amaury 1.dll
+E:\6 eme info\WPF-GITHUB\wpf ACT 6 DAMIERS Amaury 1\obj\Debug\net8.0-windows\refint\wpf ACT 6 DAMIERS Amaury 1.dll
+E:\6 eme info\WPF-GITHUB\wpf ACT 6 DAMIERS Amaury 1\obj\Debug\net8.0-windows\wpf ACT 6 DAMIERS Amaury 1.pdb
+E:\6 eme info\WPF-GITHUB\wpf ACT 6 DAMIERS Amaury 1\obj\Debug\net8.0-windows\wpf ACT 6 DAMIERS Amaury 1.genruntimeconfig.cache
+E:\6 eme info\WPF-GITHUB\wpf ACT 6 DAMIERS Amaury 1\obj\Debug\net8.0-windows\ref\wpf ACT 6 DAMIERS Amaury 1.dll
+A:\6 eme info\WPF-GITHUB\wpf ACT 6 DAMIERS Amaury 1\bin\Debug\net8.0-windows\wpf ACT 6 DAMIERS Amaury 1.exe
+A:\6 eme info\WPF-GITHUB\wpf ACT 6 DAMIERS Amaury 1\bin\Debug\net8.0-windows\wpf ACT 6 DAMIERS Amaury 1.deps.json
+A:\6 eme info\WPF-GITHUB\wpf ACT 6 DAMIERS Amaury 1\bin\Debug\net8.0-windows\wpf ACT 6 DAMIERS Amaury 1.runtimeconfig.json
+A:\6 eme info\WPF-GITHUB\wpf ACT 6 DAMIERS Amaury 1\bin\Debug\net8.0-windows\wpf ACT 6 DAMIERS Amaury 1.dll
+A:\6 eme info\WPF-GITHUB\wpf ACT 6 DAMIERS Amaury 1\bin\Debug\net8.0-windows\wpf ACT 6 DAMIERS Amaury 1.pdb
+A:\6 eme info\WPF-GITHUB\wpf ACT 6 DAMIERS Amaury 1\obj\Debug\net8.0-windows\MainWindow.g.cs
+A:\6 eme info\WPF-GITHUB\wpf ACT 6 DAMIERS Amaury 1\obj\Debug\net8.0-windows\App.g.cs
+A:\6 eme info\WPF-GITHUB\wpf ACT 6 DAMIERS Amaury 1\obj\Debug\net8.0-windows\wpf ACT 6 DAMIERS Amaury 1_MarkupCompile.cache
+A:\6 eme info\WPF-GITHUB\wpf ACT 6 DAMIERS Amaury 1\obj\Debug\net8.0-windows\wpf ACT 6 DAMIERS Amaury 1_MarkupCompile.lref
+A:\6 eme info\WPF-GITHUB\wpf ACT 6 DAMIERS Amaury 1\obj\Debug\net8.0-windows\MainWindow.baml
+A:\6 eme info\WPF-GITHUB\wpf ACT 6 DAMIERS Amaury 1\obj\Debug\net8.0-windows\wpf ACT 6 DAMIERS Amaury 1.g.resources
+A:\6 eme info\WPF-GITHUB\wpf ACT 6 DAMIERS Amaury 1\obj\Debug\net8.0-windows\wpf ACT 6 DAMIERS Amaury 1.GeneratedMSBuildEditorConfig.editorconfig
+A:\6 eme info\WPF-GITHUB\wpf ACT 6 DAMIERS Amaury 1\obj\Debug\net8.0-windows\wpf ACT 6 DAMIERS Amaury 1.AssemblyInfoInputs.cache
+A:\6 eme info\WPF-GITHUB\wpf ACT 6 DAMIERS Amaury 1\obj\Debug\net8.0-windows\wpf ACT 6 DAMIERS Amaury 1.AssemblyInfo.cs
+A:\6 eme info\WPF-GITHUB\wpf ACT 6 DAMIERS Amaury 1\obj\Debug\net8.0-windows\wpf ACT 6 DAMIERS Amaury 1.csproj.CoreCompileInputs.cache
+A:\6 eme info\WPF-GITHUB\wpf ACT 6 DAMIERS Amaury 1\obj\Debug\net8.0-windows\wpf ACT 6 DAMIERS Amaury 1.sourcelink.json
+A:\6 eme info\WPF-GITHUB\wpf ACT 6 DAMIERS Amaury 1\obj\Debug\net8.0-windows\wpf ACT 6 DAMIERS Amaury 1.dll
+A:\6 eme info\WPF-GITHUB\wpf ACT 6 DAMIERS Amaury 1\obj\Debug\net8.0-windows\refint\wpf ACT 6 DAMIERS Amaury 1.dll
+A:\6 eme info\WPF-GITHUB\wpf ACT 6 DAMIERS Amaury 1\obj\Debug\net8.0-windows\wpf ACT 6 DAMIERS Amaury 1.pdb
+A:\6 eme info\WPF-GITHUB\wpf ACT 6 DAMIERS Amaury 1\obj\Debug\net8.0-windows\wpf ACT 6 DAMIERS Amaury 1.genruntimeconfig.cache
+A:\6 eme info\WPF-GITHUB\wpf ACT 6 DAMIERS Amaury 1\obj\Debug\net8.0-windows\ref\wpf ACT 6 DAMIERS Amaury 1.dll

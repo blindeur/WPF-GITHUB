@@ -1,0 +1,42 @@
+E:\6 eme info\WPF-GITHUB\wpf amaury CRÉATION DYNAMIQUE\bin\Debug\net8.0-windows\wpf amaury CRÉATION DYNAMIQUE.exe
+E:\6 eme info\WPF-GITHUB\wpf amaury CRÉATION DYNAMIQUE\bin\Debug\net8.0-windows\wpf amaury CRÉATION DYNAMIQUE.deps.json
+E:\6 eme info\WPF-GITHUB\wpf amaury CRÉATION DYNAMIQUE\bin\Debug\net8.0-windows\wpf amaury CRÉATION DYNAMIQUE.runtimeconfig.json
+E:\6 eme info\WPF-GITHUB\wpf amaury CRÉATION DYNAMIQUE\bin\Debug\net8.0-windows\wpf amaury CRÉATION DYNAMIQUE.dll
+E:\6 eme info\WPF-GITHUB\wpf amaury CRÉATION DYNAMIQUE\bin\Debug\net8.0-windows\wpf amaury CRÉATION DYNAMIQUE.pdb
+E:\6 eme info\WPF-GITHUB\wpf amaury CRÉATION DYNAMIQUE\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\6 eme info\WPF-GITHUB\wpf amaury CRÉATION DYNAMIQUE\obj\Debug\net8.0-windows\App.g.cs
+E:\6 eme info\WPF-GITHUB\wpf amaury CRÉATION DYNAMIQUE\obj\Debug\net8.0-windows\wpf amaury CRÉATION DYNAMIQUE_MarkupCompile.cache
+E:\6 eme info\WPF-GITHUB\wpf amaury CRÉATION DYNAMIQUE\obj\Debug\net8.0-windows\wpf amaury CRÉATION DYNAMIQUE_MarkupCompile.lref
+E:\6 eme info\WPF-GITHUB\wpf amaury CRÉATION DYNAMIQUE\obj\Debug\net8.0-windows\MainWindow.baml
+E:\6 eme info\WPF-GITHUB\wpf amaury CRÉATION DYNAMIQUE\obj\Debug\net8.0-windows\wpf amaury CRÉATION DYNAMIQUE.g.resources
+E:\6 eme info\WPF-GITHUB\wpf amaury CRÉATION DYNAMIQUE\obj\Debug\net8.0-windows\wpf amaury CRÉATION DYNAMIQUE.GeneratedMSBuildEditorConfig.editorconfig
+E:\6 eme info\WPF-GITHUB\wpf amaury CRÉATION DYNAMIQUE\obj\Debug\net8.0-windows\wpf amaury CRÉATION DYNAMIQUE.AssemblyInfoInputs.cache
+E:\6 eme info\WPF-GITHUB\wpf amaury CRÉATION DYNAMIQUE\obj\Debug\net8.0-windows\wpf amaury CRÉATION DYNAMIQUE.AssemblyInfo.cs
+E:\6 eme info\WPF-GITHUB\wpf amaury CRÉATION DYNAMIQUE\obj\Debug\net8.0-windows\wpf amaury CRÉATION DYNAMIQUE.csproj.CoreCompileInputs.cache
+E:\6 eme info\WPF-GITHUB\wpf amaury CRÉATION DYNAMIQUE\obj\Debug\net8.0-windows\wpf amaury CRÉATION DYNAMIQUE.sourcelink.json
+E:\6 eme info\WPF-GITHUB\wpf amaury CRÉATION DYNAMIQUE\obj\Debug\net8.0-windows\wpf amaury CRÉATION DYNAMIQUE.dll
+E:\6 eme info\WPF-GITHUB\wpf amaury CRÉATION DYNAMIQUE\obj\Debug\net8.0-windows\refint\wpf amaury CRÉATION DYNAMIQUE.dll
+E:\6 eme info\WPF-GITHUB\wpf amaury CRÉATION DYNAMIQUE\obj\Debug\net8.0-windows\wpf amaury CRÉATION DYNAMIQUE.pdb
+E:\6 eme info\WPF-GITHUB\wpf amaury CRÉATION DYNAMIQUE\obj\Debug\net8.0-windows\wpf amaury CRÉATION DYNAMIQUE.genruntimeconfig.cache
+E:\6 eme info\WPF-GITHUB\wpf amaury CRÉATION DYNAMIQUE\obj\Debug\net8.0-windows\ref\wpf amaury CRÉATION DYNAMIQUE.dll
+A:\6 eme info\WPF-GITHUB\wpf amaury CRÉATION DYNAMIQUE\bin\Debug\net8.0-windows\wpf amaury CRÉATION DYNAMIQUE.exe
+A:\6 eme info\WPF-GITHUB\wpf amaury CRÉATION DYNAMIQUE\bin\Debug\net8.0-windows\wpf amaury CRÉATION DYNAMIQUE.deps.json
+A:\6 eme info\WPF-GITHUB\wpf amaury CRÉATION DYNAMIQUE\bin\Debug\net8.0-windows\wpf amaury CRÉATION DYNAMIQUE.runtimeconfig.json
+A:\6 eme info\WPF-GITHUB\wpf amaury CRÉATION DYNAMIQUE\bin\Debug\net8.0-windows\wpf amaury CRÉATION DYNAMIQUE.dll
+A:\6 eme info\WPF-GITHUB\wpf amaury CRÉATION DYNAMIQUE\bin\Debug\net8.0-windows\wpf amaury CRÉATION DYNAMIQUE.pdb
+A:\6 eme info\WPF-GITHUB\wpf amaury CRÉATION DYNAMIQUE\obj\Debug\net8.0-windows\MainWindow.g.cs
+A:\6 eme info\WPF-GITHUB\wpf amaury CRÉATION DYNAMIQUE\obj\Debug\net8.0-windows\App.g.cs
+A:\6 eme info\WPF-GITHUB\wpf amaury CRÉATION DYNAMIQUE\obj\Debug\net8.0-windows\wpf amaury CRÉATION DYNAMIQUE_MarkupCompile.cache
+A:\6 eme info\WPF-GITHUB\wpf amaury CRÉATION DYNAMIQUE\obj\Debug\net8.0-windows\wpf amaury CRÉATION DYNAMIQUE_MarkupCompile.lref
+A:\6 eme info\WPF-GITHUB\wpf amaury CRÉATION DYNAMIQUE\obj\Debug\net8.0-windows\MainWindow.baml
+A:\6 eme info\WPF-GITHUB\wpf amaury CRÉATION DYNAMIQUE\obj\Debug\net8.0-windows\wpf amaury CRÉATION DYNAMIQUE.g.resources
+A:\6 eme info\WPF-GITHUB\wpf amaury CRÉATION DYNAMIQUE\obj\Debug\net8.0-windows\wpf amaury CRÉATION DYNAMIQUE.GeneratedMSBuildEditorConfig.editorconfig
+A:\6 eme info\WPF-GITHUB\wpf amaury CRÉATION DYNAMIQUE\obj\Debug\net8.0-windows\wpf amaury CRÉATION DYNAMIQUE.AssemblyInfoInputs.cache
+A:\6 eme info\WPF-GITHUB\wpf amaury CRÉATION DYNAMIQUE\obj\Debug\net8.0-windows\wpf amaury CRÉATION DYNAMIQUE.AssemblyInfo.cs
+A:\6 eme info\WPF-GITHUB\wpf amaury CRÉATION DYNAMIQUE\obj\Debug\net8.0-windows\wpf amaury CRÉATION DYNAMIQUE.csproj.CoreCompileInputs.cache
+A:\6 eme info\WPF-GITHUB\wpf amaury CRÉATION DYNAMIQUE\obj\Debug\net8.0-windows\wpf amaury CRÉATION DYNAMIQUE.sourcelink.json
+A:\6 eme info\WPF-GITHUB\wpf amaury CRÉATION DYNAMIQUE\obj\Debug\net8.0-windows\wpf amaury CRÉATION DYNAMIQUE.dll
+A:\6 eme info\WPF-GITHUB\wpf amaury CRÉATION DYNAMIQUE\obj\Debug\net8.0-windows\refint\wpf amaury CRÉATION DYNAMIQUE.dll
+A:\6 eme info\WPF-GITHUB\wpf amaury CRÉATION DYNAMIQUE\obj\Debug\net8.0-windows\wpf amaury CRÉATION DYNAMIQUE.pdb
+A:\6 eme info\WPF-GITHUB\wpf amaury CRÉATION DYNAMIQUE\obj\Debug\net8.0-windows\wpf amaury CRÉATION DYNAMIQUE.genruntimeconfig.cache
+A:\6 eme info\WPF-GITHUB\wpf amaury CRÉATION DYNAMIQUE\obj\Debug\net8.0-windows\ref\wpf amaury CRÉATION DYNAMIQUE.dll

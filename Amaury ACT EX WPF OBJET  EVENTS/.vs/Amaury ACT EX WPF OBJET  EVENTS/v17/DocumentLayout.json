@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "E:\\6 eme info\\WPF-GITHUB\\Amaury ACT EX WPF OBJET  EVENTS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F0351C65-6B51-46EF-963F-5C56AE7863AB}|Amaury ACT EX WPF OBJET  EVENTS.csproj|e:\\6 eme info\\wpf-github\\amaury act ex wpf objet  events\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F0351C65-6B51-46EF-963F-5C56AE7863AB}|Amaury ACT EX WPF OBJET  EVENTS.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F0351C65-6B51-46EF-963F-5C56AE7863AB}|Amaury ACT EX WPF OBJET  EVENTS.csproj|e:\\6 eme info\\wpf-github\\amaury act ex wpf objet  events\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0351C65-6B51-46EF-963F-5C56AE7863AB}|Amaury ACT EX WPF OBJET  EVENTS.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,26 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "E:\\6 eme info\\WPF-GITHUB\\Amaury ACT EX WPF OBJET  EVENTS\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "E:\\6 eme info\\WPF-GITHUB\\Amaury ACT EX WPF OBJET  EVENTS\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-01T07:13:57.497Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "E:\\6 eme info\\WPF-GITHUB\\Amaury ACT EX WPF OBJET  EVENTS\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "E:\\6 eme info\\WPF-GITHUB\\Amaury ACT EX WPF OBJET  EVENTS\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T07:13:55.383Z",
+              "WhenOpened": "2025-11-02T19:12:31.945Z",
               "EditorCaption": ""
             }
           ]

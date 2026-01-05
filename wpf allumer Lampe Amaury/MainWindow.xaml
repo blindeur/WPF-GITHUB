@@ -1,0 +1,19 @@
+﻿<Window x:Class="allumer_Lampe.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:allumer_Lampe"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="400">
+    <Grid>
+        <StackPanel Margin="10">
+            <TextBlock Text="Choisir une lampe par code :" Margin="0,0,0,5"/>
+            <TextBox Name="txtCodeLampe" Width="100" Margin="0,0,0,10"/>
+            <Button Content="Allumer / Éteindre" Click="BtnActionner_Click" Width="150"/>
+            <Button Content="Allumer toutes les lampes" Click="BtnAllumerToutes_Click" Width="200" Margin="0,5,0,0"/>
+            <TextBlock Name="txtEtatLampes" Margin="0,10,0,0"/>
+        </StackPanel>
+
+    </Grid>
+</Window>

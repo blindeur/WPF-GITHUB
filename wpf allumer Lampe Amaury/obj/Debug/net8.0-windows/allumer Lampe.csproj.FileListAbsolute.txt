@@ -1,0 +1,21 @@
+A:\6 eme info\WPF-GITHUB\allumer Lampe\obj\Debug\net8.0-windows\MainWindow.g.cs
+A:\6 eme info\WPF-GITHUB\allumer Lampe\obj\Debug\net8.0-windows\App.g.cs
+A:\6 eme info\WPF-GITHUB\allumer Lampe\obj\Debug\net8.0-windows\allumer Lampe_MarkupCompile.cache
+A:\6 eme info\WPF-GITHUB\allumer Lampe\obj\Debug\net8.0-windows\allumer Lampe_MarkupCompile.lref
+A:\6 eme info\WPF-GITHUB\allumer Lampe\bin\Debug\net8.0-windows\allumer Lampe.exe
+A:\6 eme info\WPF-GITHUB\allumer Lampe\bin\Debug\net8.0-windows\allumer Lampe.deps.json
+A:\6 eme info\WPF-GITHUB\allumer Lampe\bin\Debug\net8.0-windows\allumer Lampe.runtimeconfig.json
+A:\6 eme info\WPF-GITHUB\allumer Lampe\bin\Debug\net8.0-windows\allumer Lampe.dll
+A:\6 eme info\WPF-GITHUB\allumer Lampe\bin\Debug\net8.0-windows\allumer Lampe.pdb
+A:\6 eme info\WPF-GITHUB\allumer Lampe\obj\Debug\net8.0-windows\MainWindow.baml
+A:\6 eme info\WPF-GITHUB\allumer Lampe\obj\Debug\net8.0-windows\allumer Lampe.g.resources
+A:\6 eme info\WPF-GITHUB\allumer Lampe\obj\Debug\net8.0-windows\allumer Lampe.GeneratedMSBuildEditorConfig.editorconfig
+A:\6 eme info\WPF-GITHUB\allumer Lampe\obj\Debug\net8.0-windows\allumer Lampe.AssemblyInfoInputs.cache
+A:\6 eme info\WPF-GITHUB\allumer Lampe\obj\Debug\net8.0-windows\allumer Lampe.AssemblyInfo.cs
+A:\6 eme info\WPF-GITHUB\allumer Lampe\obj\Debug\net8.0-windows\allumer Lampe.csproj.CoreCompileInputs.cache
+A:\6 eme info\WPF-GITHUB\allumer Lampe\obj\Debug\net8.0-windows\allumer Lampe.sourcelink.json
+A:\6 eme info\WPF-GITHUB\allumer Lampe\obj\Debug\net8.0-windows\allumer Lampe.dll
+A:\6 eme info\WPF-GITHUB\allumer Lampe\obj\Debug\net8.0-windows\refint\allumer Lampe.dll
+A:\6 eme info\WPF-GITHUB\allumer Lampe\obj\Debug\net8.0-windows\allumer Lampe.pdb
+A:\6 eme info\WPF-GITHUB\allumer Lampe\obj\Debug\net8.0-windows\allumer Lampe.genruntimeconfig.cache
+A:\6 eme info\WPF-GITHUB\allumer Lampe\obj\Debug\net8.0-windows\ref\allumer Lampe.dll

@@ -1,0 +1,21 @@
+A:\6 eme info\WPF-GITHUB\wpf amaury ACT 4 CREATION DYNAMIQUE EX2\obj\Debug\net8.0-windows\App.g.cs
+A:\6 eme info\WPF-GITHUB\wpf amaury ACT 4 CREATION DYNAMIQUE EX2\obj\Debug\net8.0-windows\wpf amaury ACT 4 CREATION DYNAMIQUE EX2_MarkupCompile.cache
+A:\6 eme info\WPF-GITHUB\wpf amaury ACT 4 CREATION DYNAMIQUE EX2\bin\Debug\net8.0-windows\wpf amaury ACT 4 CREATION DYNAMIQUE EX2.exe
+A:\6 eme info\WPF-GITHUB\wpf amaury ACT 4 CREATION DYNAMIQUE EX2\bin\Debug\net8.0-windows\wpf amaury ACT 4 CREATION DYNAMIQUE EX2.deps.json
+A:\6 eme info\WPF-GITHUB\wpf amaury ACT 4 CREATION DYNAMIQUE EX2\bin\Debug\net8.0-windows\wpf amaury ACT 4 CREATION DYNAMIQUE EX2.runtimeconfig.json
+A:\6 eme info\WPF-GITHUB\wpf amaury ACT 4 CREATION DYNAMIQUE EX2\bin\Debug\net8.0-windows\wpf amaury ACT 4 CREATION DYNAMIQUE EX2.dll
+A:\6 eme info\WPF-GITHUB\wpf amaury ACT 4 CREATION DYNAMIQUE EX2\bin\Debug\net8.0-windows\wpf amaury ACT 4 CREATION DYNAMIQUE EX2.pdb
+A:\6 eme info\WPF-GITHUB\wpf amaury ACT 4 CREATION DYNAMIQUE EX2\obj\Debug\net8.0-windows\MainWindow.g.cs
+A:\6 eme info\WPF-GITHUB\wpf amaury ACT 4 CREATION DYNAMIQUE EX2\obj\Debug\net8.0-windows\wpf amaury ACT 4 CREATION DYNAMIQUE EX2_MarkupCompile.lref
+A:\6 eme info\WPF-GITHUB\wpf amaury ACT 4 CREATION DYNAMIQUE EX2\obj\Debug\net8.0-windows\MainWindow.baml
+A:\6 eme info\WPF-GITHUB\wpf amaury ACT 4 CREATION DYNAMIQUE EX2\obj\Debug\net8.0-windows\wpf amaury ACT 4 CREATION DYNAMIQUE EX2.g.resources
+A:\6 eme info\WPF-GITHUB\wpf amaury ACT 4 CREATION DYNAMIQUE EX2\obj\Debug\net8.0-windows\wpf amaury ACT 4 CREATION DYNAMIQUE EX2.GeneratedMSBuildEditorConfig.editorconfig
+A:\6 eme info\WPF-GITHUB\wpf amaury ACT 4 CREATION DYNAMIQUE EX2\obj\Debug\net8.0-windows\wpf amaury ACT 4 CREATION DYNAMIQUE EX2.AssemblyInfoInputs.cache
+A:\6 eme info\WPF-GITHUB\wpf amaury ACT 4 CREATION DYNAMIQUE EX2\obj\Debug\net8.0-windows\wpf amaury ACT 4 CREATION DYNAMIQUE EX2.AssemblyInfo.cs
+A:\6 eme info\WPF-GITHUB\wpf amaury ACT 4 CREATION DYNAMIQUE EX2\obj\Debug\net8.0-windows\wpf amaury ACT 4 CREATION DYNAMIQUE EX2.csproj.CoreCompileInputs.cache
+A:\6 eme info\WPF-GITHUB\wpf amaury ACT 4 CREATION DYNAMIQUE EX2\obj\Debug\net8.0-windows\wpf amaury ACT 4 CREATION DYNAMIQUE EX2.sourcelink.json
+A:\6 eme info\WPF-GITHUB\wpf amaury ACT 4 CREATION DYNAMIQUE EX2\obj\Debug\net8.0-windows\wpf amaury ACT 4 CREATION DYNAMIQUE EX2.dll
+A:\6 eme info\WPF-GITHUB\wpf amaury ACT 4 CREATION DYNAMIQUE EX2\obj\Debug\net8.0-windows\refint\wpf amaury ACT 4 CREATION DYNAMIQUE EX2.dll
+A:\6 eme info\WPF-GITHUB\wpf amaury ACT 4 CREATION DYNAMIQUE EX2\obj\Debug\net8.0-windows\wpf amaury ACT 4 CREATION DYNAMIQUE EX2.pdb
+A:\6 eme info\WPF-GITHUB\wpf amaury ACT 4 CREATION DYNAMIQUE EX2\obj\Debug\net8.0-windows\wpf amaury ACT 4 CREATION DYNAMIQUE EX2.genruntimeconfig.cache
+A:\6 eme info\WPF-GITHUB\wpf amaury ACT 4 CREATION DYNAMIQUE EX2\obj\Debug\net8.0-windows\ref\wpf amaury ACT 4 CREATION DYNAMIQUE EX2.dll
